@@ -1,0 +1,39 @@
+{
+    "key": "group_553527fa98297",
+    "title": "Deal Category",
+    "fields": [
+        {
+            "key": "field_55352808d52c4",
+            "label": "Icon",
+            "name": "icon",
+            "type": "fonticonpicker",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "allow_null": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "taxonomy",
+                "operator": "==",
+                "value": "deal_category"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1447673867
+}
